@@ -6,7 +6,8 @@
       "name": "app",
       "installMode": "prefetch",
       "resources": {
-        "files": ["/favicon.ico", "/index.html", "/manifest.webapp", "/*.css", "/*.js"]
+        "files": ["/favicon.ico", "/index.html", "/manifest.webapp", "/*.css", "/*.js"],
+        "urls": ["http://localhost:8080/i18n/en.json?_=017301ab2a479c330a383a52e9e8225c", "http://localhost:8080/management/info"]
       }
     },
     {
