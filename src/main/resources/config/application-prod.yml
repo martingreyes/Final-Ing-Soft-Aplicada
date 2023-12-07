@@ -99,7 +99,7 @@ jhipster:
         # - In the `JHIPSTER_SECURITY_AUTHENTICATION_JWT_BASE64_SECRET` environment variable
         base64-secret: YjM2ZjViYWVmNjlhZTk4ODI2NjVhODA0OWFhOWQyNGY3ZDVhYzE3MmI1NTEwZGUwMDM0OTkwZGYyZWQyNGFmODExNzBiYWFhNmYwY2QwZDZlYjgwYzk1ZDk5MDVhY2VjYTQyNTg4NTAzZmEwZDFlMjliMzYwOGQ2NWJkNjkxOGQ=
         # Token is valid 24 hours
-        token-validity-in-seconds: 86400
+        token-validity-in-seconds: 2592000
         token-validity-in-seconds-for-remember-me: 2592000
   mail: # specific JHipster mail property, for standard properties see MailProperties
     base-url: http://my-server-url-to-change # Modify according to your server's URL
